@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/paolatest/static/css/main.a1965e2d.chunk.css",
+    "main.js": "/paolatest/static/js/main.663d13df.chunk.js",
+    "main.js.map": "/paolatest/static/js/main.663d13df.chunk.js.map",
+    "runtime-main.js": "/paolatest/static/js/runtime-main.035b618d.js",
+    "runtime-main.js.map": "/paolatest/static/js/runtime-main.035b618d.js.map",
+    "static/js/2.0520baf7.chunk.js": "/paolatest/static/js/2.0520baf7.chunk.js",
+    "static/js/2.0520baf7.chunk.js.map": "/paolatest/static/js/2.0520baf7.chunk.js.map",
+    "index.html": "/paolatest/index.html",
+    "precache-manifest.08ec7968016bdaa02792a0856a982975.js": "/paolatest/precache-manifest.08ec7968016bdaa02792a0856a982975.js",
+    "service-worker.js": "/paolatest/service-worker.js",
+    "static/css/main.a1965e2d.chunk.css.map": "/paolatest/static/css/main.a1965e2d.chunk.css.map",
+    "static/media/App.css": "/paolatest/static/media/bg.f12333e6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.035b618d.js",
+    "static/js/2.0520baf7.chunk.js",
+    "static/css/main.a1965e2d.chunk.css",
+    "static/js/main.663d13df.chunk.js"
+  ]
+}
